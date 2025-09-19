@@ -11,5 +11,6 @@ public class Main
 	{
 		Controller c = new HomeController();
 		c.run();
+                System.out.println("Los estudiantes de USIL SON LOS MEJORES!!!");
 	}
 }
