@@ -1,0 +1,4 @@
+01/12/2022;hola;DAILY;abc@gmail.com;0
+01/12/1992;Hola Como estás. ;MONTHLY;roberto@usil.pe;1
+01/12/2026;abc;DAILY;micorreo;1
+01/12/2026;POO2;DAILY;roberto@usil.pe;1
